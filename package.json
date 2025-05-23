@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "rm -rf dist && cp -Ra ./src/. dist && babel src -d dist",
-    "lint": "eslint . && stylelint './*.css'",
-    "lint:fix": "eslint . --fix && stylelint './*.css' --fix",
+    "lint": "eslint . && stylelint './src/*.css'",
+    "lint:fix": "eslint . --fix && stylelint './src/*.css' --fix",
     "start": "http-server ./dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
