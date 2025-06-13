@@ -12,4 +12,4 @@
 
 ##
 
-[GitHub Pages](https://vakabunga.github.io/dustyschool-6.1-vscode-editor/)
+[GitHub Pages](https://vakabunga.github.io/DustySchool-6.1-VScode-editor/)
