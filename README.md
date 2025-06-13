@@ -9,3 +9,7 @@
 3. `npm run build`
 4. `npm start`
 5. go to http://localhost:8080
+
+##
+
+[GitHub Pages](https://vakabunga.github.io/dustyschool-6.1-vscode-editor/)
