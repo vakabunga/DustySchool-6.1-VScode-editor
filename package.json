@@ -27,6 +27,6 @@
     "stylelint-semantic-groups": "1.2.1"
   },
   "dependencies": {
-    "monaco-editor": "^0.52.2"
+    "monaco-editor": "0.52.2"
   }
 }
